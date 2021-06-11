@@ -4,6 +4,7 @@ https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dat
 
 ## Data Description
 Of the 12,330 sessions in the dataset, 84.5% (10,422) were negative class samples that did not end with shopping, and the rest (1908) were positive class samples ending with shopping.
+![alt text](https://github.com/tchebonenko/Docs/blob/main/midterm-data.jpg?raw=true)
 
 
 ## Relevant papers
