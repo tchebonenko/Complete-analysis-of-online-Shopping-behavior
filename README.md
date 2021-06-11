@@ -1,4 +1,5 @@
 # Complete-analysis-of-online-Shopping-behavior
+
 ## Goals
 1) Build a predictive classification model (ensuring optimal features and classifier). 
 2) Train the model on data entries corresponding to the months of June-Dec, and test the model on data entries corresponding to Feb-March.
@@ -6,8 +7,10 @@
 4) Build a semi-supervised self labelling model to estimate 'Revenue' for the missing records in Oct-Dec (presumably) and then fit your classifier. 
 5) Test classification performance on Feb-March data set with and without the self-labelled data. 
 
+
 ## Data source
 https://archive.ics.uci.edu/ml/datasets/Online+Shoppers+Purchasing+Intention+Dataset
+
 
 ## Data Description
 Of the 12,330 sessions in the dataset, 84.5% (10,422) were negative class samples that did not end with shopping, and the rest (1908) were positive class samples ending with shopping.
